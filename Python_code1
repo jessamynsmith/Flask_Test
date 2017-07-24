@@ -1,0 +1,7 @@
+from flask import Flask,render_template
+num=0
+'''for num in range 10:
+        print(num)
+        num+=1
+'''
+return render_template(num=num)
