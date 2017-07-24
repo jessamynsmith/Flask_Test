@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flask Test</title>
+</head>
+<body>
+<h1>This is a test of Flask.</h1>
+<h2>The test was successful if the numbers 0-10 were printed.</h2>
+<table border=“5px”>
+    <thead>
+    <tr><th colspan="5">What I am testing is in bold</th></tr>
+    <tr>
+        <td>Divisor</td>
+        <td>Flask</td>
+        <td>Success</td>
+    </tr>
+    </thead>
+    <tbody
+    <tr>
+        <th>{{num}}</th>
+        <td>Yes</td>
+        <td>No</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>7</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>8</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>No</td>
+        <td>N/A</td>
+    </tr>
+    </tbody>
+</table>
+</body>
+</html>
